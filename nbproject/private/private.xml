@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/java/student/src/controller/ShowStudentController.java</file>
+            <file>file:/E:/java/student/src/controller/AddStudentController.java</file>
+            <file>file:/E:/java/student/src/view/showStudent.java</file>
+            <file>file:/E:/java/student/src/controller/AddAdminController.java</file>
+            <file>file:/E:/java/student/src/view/Option.java</file>
+            <file>file:/E:/java/student/src/controller/LoginController.java</file>
+            <file>file:/E:/java/student/src/Main.java</file>
+            <file>file:/E:/java/student/src/view/addStudent.java</file>
+            <file>file:/E:/java/student/src/controller/ShowAdminController.java</file>
+            <file>file:/E:/java/student/src/controller/HomeController.java</file>
+            <file>file:/E:/java/student/src/view/home.java</file>
+            <file>file:/E:/java/student/src/model/StudentModel.java</file>
+            <file>file:/E:/java/student/src/view/login.java</file>
+            <file>file:/E:/java/student/src/controller/OptionController.java</file>
+            <file>file:/E:/java/student/src/controller/StudentDao.java</file>
+            <file>file:/E:/java/student/src/view/databaseConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
